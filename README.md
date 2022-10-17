@@ -8,6 +8,6 @@ Nguyễn Đức Hiển - 20110643
 --------------------------
 Võ Văn Đức 
 --------------------------
-Quốc Toàn
+Nguyễn Quốc Toàn - 20110740
 --------------------------
 Thực hiện xây dựng website trên eclipse, kiểm tra các chức năng sau đó deloy lên docker trên máy ubuntu ec2
