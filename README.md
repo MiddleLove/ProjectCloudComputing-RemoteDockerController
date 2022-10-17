@@ -10,4 +10,4 @@ Võ Văn Đức
 --------------------------
 Nguyễn Quốc Toàn - 20110740
 --------------------------
-Thực hiện xây dựng website trên eclipse, kiểm tra các chức năng sau đó deloy lên docker trên máy ubuntu ec2
+Thực hiện xây dựng website trên eclipse, kiểm tra các chức năng sau đó deloy lên docker trên máy ubuntu EC2
